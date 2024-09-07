@@ -1,0 +1,25 @@
+{
+  "name": "refactoring-code-smells",
+  "version": "1.0.0",
+  "description": "Bad code smells",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chih-hengChen/refactoring-code-smells.git"
+  },
+  "author": "Eric Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chih-hengChen/refactoring-code-smells/issues"
+  },
+  "homepage": "https://github.com/Chih-hengChen/refactoring-code-smells#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}
