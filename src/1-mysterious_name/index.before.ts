@@ -6,6 +6,9 @@
  *  1.2：奇怪的缩写
  *  1.3：不统一的命名风格
  * 
+ *  一些命名规范：
+ *  https://juejin.cn/post/7432501812883767346
+ * 
  */
 
 function z(x: number, y: number): number {
