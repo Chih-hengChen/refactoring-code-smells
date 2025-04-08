@@ -9,7 +9,7 @@
  */
 
 // 直接暴露所有内部对象
-class Product {
+export class Product {
     constructor(public name: string, public price: number) { }
 }
 
